@@ -16,7 +16,7 @@ The purpose of this analysis project is to create a summary DataFrame of the PyB
 ### Summary Data Frame
 Using the data provided in the .csv files, the ride fare data was grouped by city size for the following categories:
 
-![Weekly resampled DataFrame](./Resources/Images/Summary_df.png)
+![Summary DataFrame](./Resources/Images/Summary_df.png)
 
 
 ### Resampled Data
@@ -28,7 +28,7 @@ It was then resampled to show the results per week, as follows:
 ### Line Graph
 Then the following line graph was generated to help visualize these weekly results:
 
-![Weekly resampled DataFrame](./Analysis/Pyber_fare_summary.png)
+![Line Graph](./Analysis/Pyber_fare_summary.png)
  
 --- 
 
