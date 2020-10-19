@@ -28,7 +28,7 @@ It was then resampled to show the results per week, as follows:
 ### Line Graph
 Then the following line graph was generated to help visualize these weekly results:
 
-![Line Graph](./Analysis/Pyber_fare_summary.png)
+![Line Graph](./Analysis/PyBer_fare_summary.png)              
  
 --- 
 
